@@ -1,0 +1,3776 @@
+{
+    "cities":[
+        {"Id":1,"name":"Adana"},
+        {"Id":2,"name":"Adıyaman"},
+        {"Id":3,"name":"Afyonkarahisar"},
+        {"Id":4,"name":"Ağrı"},
+        {"Id":5,"name":"Amasya"},
+        {"Id":6,"name":"Ankara"},
+        {"Id":7,"name":"Antalya"},
+        {"Id":8,"name":"Artvin"},
+        {"Id":9,"name":"Aydın"},
+        {"Id":10,"name":"Balıkesir"},
+        {"Id":11,"name":"Bilecik"},
+        {"Id":12,"name":"Bingöl"},
+        {"Id":13,"name":"Bitlis"},
+        {"Id":14,"name":"Bolu"},
+        {"Id":15,"name":"Burdur"},
+        {"Id":16,"name":"Bursa"},
+        {"Id":17,"name":"Çanakkale"},
+        {"Id":18,"name":"Çankırı"},
+        {"Id":19,"name":"Çorum"},
+        {"Id":20,"name":"Denizli"},
+        {"Id":21,"name":"Diyarbakır"},
+        {"Id":22,"name":"Edirne"},
+        {"Id":23,"name":"Elazığ"},
+        {"Id":24,"name":"Erzincan"},
+        {"Id":25,"name":"Erzurum"},
+        {"Id":26,"name":"Eskişehir"},
+        {"Id":27,"name":"Gaziantep"},
+        {"Id":28,"name":"Giresun"},
+        {"Id":29,"name":"Gümüşhane"},
+        {"Id":30,"name":"Hakkari"},
+        {"Id":31,"name":"Hatay"},
+        {"Id":32,"name":"Isparta"},
+        {"Id":33,"name":"Mersin"},
+        {"Id":34,"name":"İstanbul"},
+        {"Id":35,"name":"İzmir"},
+        {"Id":36,"name":"Kars"},
+        {"Id":37,"name":"Kastamonu"},
+        {"Id":38,"name":"Kayseri"},
+        {"Id":39,"name":"Kırklareli"},
+        {"Id":40,"name":"Kırşehir"},
+        {"Id":41,"name":"Kocaeli"},
+        {"Id":42,"name":"Konya"},
+        {"Id":43,"name":"Kütahya"},
+        {"Id":44,"name":"Malatya"},
+        {"Id":45,"name":"Manisa"},
+        {"Id":46,"name":"Kahramanmaraş"},
+        {"Id":47,"name":"Mardin"},
+        {"Id":48,"name":"Muğla"},
+        {"Id":49,"name":"Muş"},
+        {"Id":50,"name":"Nevşehir"},
+        {"Id":51,"name":"Niğde"},
+        {"Id":52,"name":"Ordu"},
+        {"Id":53,"name":"Rize"},
+        {"Id":54,"name":"Sakarya"},
+        {"Id":55,"name":"Samsun"},
+        {"Id":56,"name":"Siirt"},
+        {"Id":57,"name":"Sinop"},
+        {"Id":58,"name":"Sivas"},
+        {"Id":59,"name":"Tekirdağ"},
+        {"Id":60,"name":"Tokat"},
+        {"Id":61,"name":"Trabzon"},
+        {"Id":62,"name":"Tunceli"},
+        {"Id":63,"name":"Şanlıurfa"},
+        {"Id":64,"name":"Uşak"},
+        {"Id":65,"name":"Van"},
+        {"Id":66,"name":"Yozgat"},
+        {"Id":67,"name":"Zonguldak"},
+        {"Id":68,"name":"Aksaray"},
+        {"Id":69,"name":"Bayburt"},
+        {"Id":70,"name":"Karaman"},
+        {"Id":71,"name":"Kırıkkale"},
+        {"Id":72,"name":"Batman"},
+        {"Id":73,"name":"Şırnak"},
+        {"Id":74,"name":"Bartın"},
+        {"Id":75,"name":"Ardahan"},
+        {"Id":76,"name":"Iğdır"},
+        {"Id":77,"name":"Yalova"},
+        {"Id":78,"name":"Karabük"},
+        {"Id":79,"name":"Kilis"},
+        {"Id":80,"name":"Osmaniye"},
+        {"Id":81,"name":"Düzce"}
+    ],
+
+    "districts":[
+        {
+          "cityId": 1,
+          "name": "Aladağ"
+        },
+        {
+          "cityId": 1,
+          "name": "Ceyhan"
+        },
+        {
+          "cityId": 1,
+          "name": "Çukurova"
+        },
+        {
+          "cityId": 1,
+          "name": "Feke"
+        },
+        {
+          "cityId": 1,
+          "name": "İmamoğlu"
+        },
+        {
+          "cityId": 1,
+          "name": "Karaisalı"
+        },
+        {
+          "cityId": 1,
+          "name": "Karataş"
+        },
+        {
+          "cityId": 1,
+          "name": "Kozan"
+        },
+        {
+          "cityId": 1,
+          "name": "Pozantı"
+        },
+        {
+          "cityId": 1,
+          "name": "Saimbeyli"
+        },
+        {
+          "cityId": 1,
+          "name": "Sarıçam"
+        },
+        {
+          "cityId": 1,
+          "name": "Seyhan"
+        },
+        {
+          "cityId": 1,
+          "name": "Tufanbeyli"
+        },
+        {
+          "cityId": 1,
+          "name": "Yumurtalık"
+        },
+        {
+          "cityId": 1,
+          "name": "Yüreğir"
+        },
+        {
+          "cityId": 2,
+          "name": "Besni"
+        },
+        {
+          "cityId": 2,
+          "name": "Çelikhan"
+        },
+        {
+          "cityId": 2,
+          "name": "Gerger"
+        },
+        {
+          "cityId": 2,
+          "name": "Gölbaşı"
+        },
+        {
+          "cityId": 2,
+          "name": "Kahta"
+        },
+        {
+          "cityId": 2,
+          "name": "Samsat"
+        },
+        {
+          "cityId": 2,
+          "name": "Sincik"
+        },
+        {
+          "cityId": 2,
+          "name": "Tut"
+        },
+        {
+          "cityId": 3,
+          "name": "Başmakçı"
+        },
+        {
+          "cityId": 3,
+          "name": "Bayat"
+        },
+        {
+          "cityId": 3,
+          "name": "Bolvadin"
+        },
+        {
+          "cityId": 3,
+          "name": "Çay"
+        },
+        {
+          "cityId": 3,
+          "name": "Çobanlar"
+        },
+        {
+          "cityId": 3,
+          "name": "Dazkırı"
+        },
+        {
+          "cityId": 3,
+          "name": "Dinar"
+        },
+        {
+          "cityId": 3,
+          "name": "Emirdağ"
+        },
+        {
+          "cityId": 3,
+          "name": "Evciler"
+        },
+        {
+          "cityId": 3,
+          "name": "Hocalar"
+        },
+        {
+          "cityId": 3,
+          "name": "İhsaniye"
+        },
+        {
+          "cityId": 3,
+          "name": "İscehisar"
+        },
+        {
+          "cityId": 3,
+          "name": "Kızılören"
+        },
+        {
+          "cityId": 3,
+          "name": "Sandıklı"
+        },
+        {
+          "cityId": 3,
+          "name": "Sinanpaşa"
+        },
+        {
+          "cityId": 3,
+          "name": "Sultandağı"
+        },
+        {
+          "cityId": 3,
+          "name": "Şuhut"
+        },
+        {
+          "cityId": 4,
+          "name": "Diyadin"
+        },
+        {
+          "cityId": 4,
+          "name": "Doğubayazıt"
+        },
+        {
+          "cityId": 4,
+          "name": "Eleşkirt"
+        },
+        {
+          "cityId": 4,
+          "name": "Hamur"
+        },
+        {
+          "cityId": 4,
+          "name": "Patnos"
+        },
+        {
+          "cityId": 4,
+          "name": "Taşlıçay"
+        },
+        {
+          "cityId": 4,
+          "name": "Tutak"
+        },
+        {
+          "cityId": 5,
+          "name": "Göynücek"
+        },
+        {
+          "cityId": 5,
+          "name": "Gümüşhacıköy"
+        },
+        {
+          "cityId": 5,
+          "name": "Hamamözü"
+        },
+        {
+          "cityId": 5,
+          "name": "Merzifon"
+        },
+        {
+          "cityId": 5,
+          "name": "Suluova"
+        },
+        {
+          "cityId": 5,
+          "name": "Taşova"
+        },
+        {
+          "cityId": 6,
+          "name": "Akyurt"
+        },
+        {
+          "cityId": 6,
+          "name": "Altındağ"
+        },
+        {
+          "cityId": 6,
+          "name": "Ayaş"
+        },
+        {
+          "cityId": 6,
+          "name": "Bala"
+        },
+        {
+          "cityId": 6,
+          "name": "Beypazarı"
+        },
+        {
+          "cityId": 6,
+          "name": "Çamlıdere"
+        },
+        {
+          "cityId": 6,
+          "name": "Çankaya"
+        },
+        {
+          "cityId": 6,
+          "name": "Çubuk"
+        },
+        {
+          "cityId": 6,
+          "name": "Elmadağ"
+        },
+        {
+          "cityId": 6,
+          "name": "Etimesgut"
+        },
+        {
+          "cityId": 6,
+          "name": "Evren"
+        },
+        {
+          "cityId": 6,
+          "name": "Gölbaşı"
+        },
+        {
+          "cityId": 6,
+          "name": "Güdül"
+        },
+        {
+          "cityId": 6,
+          "name": "Haymana"
+        },
+        {
+          "cityId": 6,
+          "name": "Kalecik"
+        },
+        {
+          "cityId": 6,
+          "name": "Kahramankazan"
+        },
+        {
+          "cityId": 6,
+          "name": "Keçiören"
+        },
+        {
+          "cityId": 6,
+          "name": "Kızılcahamam"
+        },
+        {
+          "cityId": 6,
+          "name": "Mamak"
+        },
+        {
+          "cityId": 6,
+          "name": "Nallıhan"
+        },
+        {
+          "cityId": 6,
+          "name": "Polatlı"
+        },
+        {
+          "cityId": 6,
+          "name": "Pursaklar"
+        },
+        {
+          "cityId": 6,
+          "name": "Sincan"
+        },
+        {
+          "cityId": 6,
+          "name": "Şereflikoçhisar"
+        },
+        {
+          "cityId": 6,
+          "name": "Yenimahalle"
+        },
+        {
+          "cityId": 7,
+          "name": "Akseki"
+        },
+        {
+          "cityId": 7,
+          "name": "Aksu"
+        },
+        {
+          "cityId": 7,
+          "name": "Alanya"
+        },
+        {
+          "cityId": 7,
+          "name": "Demre"
+        },
+        {
+          "cityId": 7,
+          "name": "Döşemealtı"
+        },
+        {
+          "cityId": 7,
+          "name": "Elmalı"
+        },
+        {
+          "cityId": 7,
+          "name": "Finike"
+        },
+        {
+          "cityId": 7,
+          "name": "Gazipaşa"
+        },
+        {
+          "cityId": 7,
+          "name": "Gündoğmuş"
+        },
+        {
+          "cityId": 7,
+          "name": "İbradı"
+        },
+        {
+          "cityId": 7,
+          "name": "Kaş"
+        },
+        {
+          "cityId": 7,
+          "name": "Kemer"
+        },
+        {
+          "cityId": 7,
+          "name": "Kepez"
+        },
+        {
+          "cityId": 7,
+          "name": "Konyaaltı"
+        },
+        {
+          "cityId": 7,
+          "name": "Korkuteli"
+        },
+        {
+          "cityId": 7,
+          "name": "Kumluca"
+        },
+        {
+          "cityId": 7,
+          "name": "Manavgat"
+        },
+        {
+          "cityId": 7,
+          "name": "Muratpaşa"
+        },
+        {
+          "cityId": 7,
+          "name": "Serik"
+        },
+        {
+          "cityId": 8,
+          "name": "Ardanuç"
+        },
+        {
+          "cityId": 8,
+          "name": "Arhavi"
+        },
+        {
+          "cityId": 8,
+          "name": "Borçka"
+        },
+        {
+          "cityId": 8,
+          "name": "Hopa"
+        },
+        {
+          "cityId": 8,
+          "name": "Murgul"
+        },
+        {
+          "cityId": 8,
+          "name": "Şavşat"
+        },
+        {
+          "cityId": 8,
+          "name": "Yusufeli"
+        },
+        {
+          "cityId": 8,
+          "name": "Kemalpaşa"
+        },
+        {
+          "cityId": 9,
+          "name": "Bozdoğan"
+        },
+        {
+          "cityId": 9,
+          "name": "Buharkent"
+        },
+        {
+          "cityId": 9,
+          "name": "Çine"
+        },
+        {
+          "cityId": 9,
+          "name": "Didim"
+        },
+        {
+          "cityId": 9,
+          "name": "Efeler"
+        },
+        {
+          "cityId": 9,
+          "name": "Germencik"
+        },
+        {
+          "cityId": 9,
+          "name": "İncirliova"
+        },
+        {
+          "cityId": 9,
+          "name": "Karacasu"
+        },
+        {
+          "cityId": 9,
+          "name": "Karpuzlu"
+        },
+        {
+          "cityId": 9,
+          "name": "Koçarlı"
+        },
+        {
+          "cityId": 9,
+          "name": "Köşk"
+        },
+        {
+          "cityId": 9,
+          "name": "Kuşadası"
+        },
+        {
+          "cityId": 9,
+          "name": "Kuyucak"
+        },
+        {
+          "cityId": 9,
+          "name": "Nazilli"
+        },
+        {
+          "cityId": 9,
+          "name": "Söke"
+        },
+        {
+          "cityId": 9,
+          "name": "Sultanhisar"
+        },
+        {
+          "cityId": 9,
+          "name": "Yenipazar"
+        },
+        {
+          "cityId": 10,
+          "name": "Altıeylül"
+        },
+        {
+          "cityId": 10,
+          "name": "Ayvalık"
+        },
+        {
+          "cityId": 10,
+          "name": "Balya"
+        },
+        {
+          "cityId": 10,
+          "name": "Bandırma"
+        },
+        {
+          "cityId": 10,
+          "name": "Bigadiç"
+        },
+        {
+          "cityId": 10,
+          "name": "Burhaniye"
+        },
+        {
+          "cityId": 10,
+          "name": "Dursunbey"
+        },
+        {
+          "cityId": 10,
+          "name": "Edremit"
+        },
+        {
+          "cityId": 10,
+          "name": "Erdek"
+        },
+        {
+          "cityId": 10,
+          "name": "Gömeç"
+        },
+        {
+          "cityId": 10,
+          "name": "Gönen"
+        },
+        {
+          "cityId": 10,
+          "name": "Havran"
+        },
+        {
+          "cityId": 10,
+          "name": "İvrindi"
+        },
+        {
+          "cityId": 10,
+          "name": "Karesi"
+        },
+        {
+          "cityId": 10,
+          "name": "Kepsut"
+        },
+        {
+          "cityId": 10,
+          "name": "Manyas"
+        },
+        {
+          "cityId": 10,
+          "name": "Marmara"
+        },
+        {
+          "cityId": 10,
+          "name": "Savaştepe"
+        },
+        {
+          "cityId": 10,
+          "name": "Sındırgı"
+        },
+        {
+          "cityId": 10,
+          "name": "Susurluk"
+        },
+        {
+          "cityId": 11,
+          "name": "Bozüyük"
+        },
+        {
+          "cityId": 11,
+          "name": "Gölpazarı"
+        },
+        {
+          "cityId": 11,
+          "name": "İnhisar"
+        },
+        {
+          "cityId": 11,
+          "name": "Osmaneli"
+        },
+        {
+          "cityId": 11,
+          "name": "Pazaryeri"
+        },
+        {
+          "cityId": 11,
+          "name": "Söğüt"
+        },
+        {
+          "cityId": 11,
+          "name": "Yenipazar"
+        },
+        {
+          "cityId": 12,
+          "name": "Adaklı"
+        },
+        {
+          "cityId": 12,
+          "name": "Genç"
+        },
+        {
+          "cityId": 12,
+          "name": "Karlıova"
+        },
+        {
+          "cityId": 12,
+          "name": "Kiğı"
+        },
+        {
+          "cityId": 12,
+          "name": "Solhan"
+        },
+        {
+          "cityId": 12,
+          "name": "Yayladere"
+        },
+        {
+          "cityId": 12,
+          "name": "Yedisu"
+        },
+        {
+          "cityId": 13,
+          "name": "Adnamevaz"
+        },
+        {
+          "cityId": 13,
+          "name": "Ahlat"
+        },
+        {
+          "cityId": 13,
+          "name": "Güroymak"
+        },
+        {
+          "cityId": 13,
+          "name": "Hizan"
+        },
+        {
+          "cityId": 13,
+          "name": "Mutki"
+        },
+        {
+          "cityId": 13,
+          "name": "Tatvan"
+        },
+        {
+          "cityId": 14,
+          "name": "Dörtdivan"
+        },
+        {
+          "cityId": 14,
+          "name": "Gerede"
+        },
+        {
+          "cityId": 14,
+          "name": "Göynük"
+        },
+        {
+          "cityId": 14,
+          "name": "Kıbrıscık"
+        },
+        {
+          "cityId": 14,
+          "name": "Mengen"
+        },
+        {
+          "cityId": 14,
+          "name": "Mudurnu"
+        },
+        {
+          "cityId": 14,
+          "name": "Seben"
+        },
+        {
+          "cityId": 14,
+          "name": "Yeniçağa"
+        },
+        {
+          "cityId": 15,
+          "name": "Ağlasun"
+        },
+        {
+          "cityId": 15,
+          "name": "Altınyayla"
+        },
+        {
+          "cityId": 15,
+          "name": "Bucak"
+        },
+        {
+          "cityId": 15,
+          "name": "Çavdır"
+        },
+        {
+          "cityId": 15,
+          "name": "Çeltikçi"
+        },
+        {
+          "cityId": 15,
+          "name": "Gölhisar"
+        },
+        {
+          "cityId": 15,
+          "name": "Karamanlı"
+        },
+        {
+          "cityId": 15,
+          "name": "Kemer"
+        },
+        {
+          "cityId": 15,
+          "name": "Tefenni"
+        },
+        {
+          "cityId": 15,
+          "name": "Yeşilova"
+        },
+        {
+          "cityId": 16,
+          "name": "Büyükorhan"
+        },
+        {
+          "cityId": 16,
+          "name": "Gemlik"
+        },
+        {
+          "cityId": 16,
+          "name": "Gürsu"
+        },
+        {
+          "cityId": 16,
+          "name": "Harmancık"
+        },
+        {
+          "cityId": 16,
+          "name": "İnegöl"
+        },
+        {
+          "cityId": 16,
+          "name": "İznik"
+        },
+        {
+          "cityId": 16,
+          "name": "Karacabey"
+        },
+        {
+          "cityId": 16,
+          "name": "Keles"
+        },
+        {
+          "cityId": 16,
+          "name": "Kestel"
+        },
+        {
+          "cityId": 16,
+          "name": "Mudanya"
+        },
+        {
+          "cityId": 16,
+          "name": "Mustafa Kemal Paşa"
+        },
+        {
+          "cityId": 16,
+          "name": "Nilüfer"
+        },
+        {
+          "cityId": 16,
+          "name": "Orhaneli"
+        },
+        {
+          "cityId": 16,
+          "name": "Orhangazi"
+        },
+        {
+          "cityId": 16,
+          "name": "Osmangazi"
+        },
+        {
+          "cityId": 16,
+          "name": "Yenişehir"
+        },
+        {
+          "cityId": 16,
+          "name": "Yıldırım"
+        },
+        {
+          "cityId": 17,
+          "name": "Ayvacık"
+        },
+        {
+          "cityId": 17,
+          "name": "Bayramiç"
+        },
+        {
+          "cityId": 17,
+          "name": "Biga"
+        },
+        {
+          "cityId": 17,
+          "name": "Bozcaada"
+        },
+        {
+          "cityId": 17,
+          "name": "Çan"
+        },
+        {
+          "cityId": 17,
+          "name": "Eceabat"
+        },
+        {
+          "cityId": 17,
+          "name": "Ezine"
+        },
+        {
+          "cityId": 17,
+          "name": "Gelibolu"
+        },
+        {
+          "cityId": 17,
+          "name": "Gökçeada"
+        },
+        {
+          "cityId": 17,
+          "name": "Lapseki"
+        },
+        {
+          "cityId": 17,
+          "name": "Yenice"
+        },
+        {
+          "cityId": 18,
+          "name": "Atkaracalar"
+        },
+        {
+          "cityId": 18,
+          "name": "Bayramören"
+        },
+        {
+          "cityId": 18,
+          "name": "Çerkeş"
+        },
+        {
+          "cityId": 18,
+          "name": "Eldivan"
+        },
+        {
+          "cityId": 18,
+          "name": "Ilgaz"
+        },
+        {
+          "cityId": 18,
+          "name": "Kızılırmak"
+        },
+        {
+          "cityId": 18,
+          "name": "Korgun"
+        },
+        {
+          "cityId": 18,
+          "name": "Kurşunlu"
+        },
+        {
+          "cityId": 18,
+          "name": "Orta"
+        },
+        {
+          "cityId": 18,
+          "name": "Şabanözü"
+        },
+        {
+          "cityId": 18,
+          "name": "Yapraklı"
+        },
+        {
+          "cityId": 19,
+          "name": "Alaca"
+        },
+        {
+          "cityId": 19,
+          "name": "Bayat"
+        },
+        {
+          "cityId": 19,
+          "name": "Boğazkale"
+        },
+        {
+          "cityId": 19,
+          "name": "Dodurga"
+        },
+        {
+          "cityId": 19,
+          "name": "İskilip"
+        },
+        {
+          "cityId": 19,
+          "name": "Kargı"
+        },
+        {
+          "cityId": 19,
+          "name": "Laçin"
+        },
+        {
+          "cityId": 19,
+          "name": "Mecitözü"
+        },
+        {
+          "cityId": 19,
+          "name": "Oğuzlar"
+        },
+        {
+          "cityId": 19,
+          "name": "Ortaköy"
+        },
+        {
+          "cityId": 19,
+          "name": "Osmancık"
+        },
+        {
+          "cityId": 19,
+          "name": "Sungurlu"
+        },
+        {
+          "cityId": 19,
+          "name": "Uğurludağ"
+        },
+        {
+          "cityId": 20,
+          "name": "Acıpayam"
+        },
+        {
+          "cityId": 20,
+          "name": "Babadağ"
+        },
+        {
+          "cityId": 20,
+          "name": "Baklan"
+        },
+        {
+          "cityId": 20,
+          "name": "Bekilli"
+        },
+        {
+          "cityId": 20,
+          "name": "Beyağaç"
+        },
+        {
+          "cityId": 20,
+          "name": "Bozkurt"
+        },
+        {
+          "cityId": 20,
+          "name": "Buldan"
+        },
+        {
+          "cityId": 20,
+          "name": "Çal"
+        },
+        {
+          "cityId": 20,
+          "name": "Çameli"
+        },
+        {
+          "cityId": 20,
+          "name": "Çardak"
+        },
+        {
+          "cityId": 20,
+          "name": "Çivril"
+        },
+        {
+          "cityId": 20,
+          "name": "Güney"
+        },
+        {
+          "cityId": 20,
+          "name": "Honaz"
+        },
+        {
+          "cityId": 20,
+          "name": "Kale"
+        },
+        {
+          "cityId": 20,
+          "name": "Merkezefendi"
+        },
+        {
+          "cityId": 20,
+          "name": "Pamukkale"
+        },
+        {
+          "cityId": 20,
+          "name": "Sarayköy"
+        },
+        {
+          "cityId": 20,
+          "name": "Serinhisar"
+        },
+        {
+          "cityId": 20,
+          "name": "Tavas"
+        },
+        {
+          "cityId": 21,
+          "name": "Bağlar"
+        },
+        {
+          "cityId": 21,
+          "name": "Bismil"
+        },
+        {
+          "cityId": 21,
+          "name": "Çermik"
+        },
+        {
+          "cityId": 21,
+          "name": "Çınar"
+        },
+        {
+          "cityId": 21,
+          "name": "Çüngüş"
+        },
+        {
+          "cityId": 21,
+          "name": "Dicle"
+        },
+        {
+          "cityId": 21,
+          "name": "Eğil"
+        },
+        {
+          "cityId": 21,
+          "name": "Ergani"
+        },
+        {
+          "cityId": 21,
+          "name": "Hani"
+        },
+        {
+          "cityId": 21,
+          "name": "Hazro"
+        },
+        {
+          "cityId": 21,
+          "name": "Kayapınar"
+        },
+        {
+          "cityId": 21,
+          "name": "Kocaköy"
+        },
+        {
+          "cityId": 21,
+          "name": "Kulp"
+        },
+        {
+          "cityId": 21,
+          "name": "Lice"
+        },
+        {
+          "cityId": 21,
+          "name": "Silvan"
+        },
+        {
+          "cityId": 21,
+          "name": "Sur"
+        },
+        {
+          "cityId": 21,
+          "name": "Yenişehir"
+        },
+        {
+          "cityId": 22,
+          "name": "Enez"
+        },
+        {
+          "cityId": 22,
+          "name": "Havsa"
+        },
+        {
+          "cityId": 22,
+          "name": "İpsala"
+        },
+        {
+          "cityId": 22,
+          "name": "Keşan"
+        },
+        {
+          "cityId": 22,
+          "name": "Lalapaşa"
+        },
+        {
+          "cityId": 22,
+          "name": "Meriç"
+        },
+        {
+          "cityId": 22,
+          "name": "Süloğlu"
+        },
+        {
+          "cityId": 22,
+          "name": "Uzunköprü"
+        },
+        {
+          "cityId": 23,
+          "name": "Ağın"
+        },
+        {
+          "cityId": 23,
+          "name": "Alacakaya"
+        },
+        {
+          "cityId": 23,
+          "name": "Arıcak"
+        },
+        {
+          "cityId": 23,
+          "name": "Baskil"
+        },
+        {
+          "cityId": 23,
+          "name": "Karakoçan"
+        },
+        {
+          "cityId": 23,
+          "name": "Keban"
+        },
+        {
+          "cityId": 23,
+          "name": "Kovancılar"
+        },
+        {
+          "cityId": 23,
+          "name": "Maden"
+        },
+        {
+          "cityId": 23,
+          "name": "Palu"
+        },
+        {
+          "cityId": 23,
+          "name": "Sivrice"
+        },
+        {
+          "cityId": 24,
+          "name": "Çayırlı"
+        },
+        {
+          "cityId": 24,
+          "name": "İliç"
+        },
+        {
+          "cityId": 24,
+          "name": "Kemah"
+        },
+        {
+          "cityId": 24,
+          "name": "Kemaliye"
+        },
+        {
+          "cityId": 24,
+          "name": "Otlukbeli"
+        },
+        {
+          "cityId": 24,
+          "name": "Refahiye"
+        },
+        {
+          "cityId": 24,
+          "name": "Tercan"
+        },
+        {
+          "cityId": 24,
+          "name": "Üzümlü"
+        },
+        {
+          "cityId": 25,
+          "name": "Aşkale"
+        },
+        {
+          "cityId": 25,
+          "name": "Aziziye"
+        },
+        {
+          "cityId": 25,
+          "name": "Çat"
+        },
+        {
+          "cityId": 25,
+          "name": "Hınıs"
+        },
+        {
+          "cityId": 25,
+          "name": "Horasan"
+        },
+        {
+          "cityId": 25,
+          "name": "İspir"
+        },
+        {
+          "cityId": 25,
+          "name": "Karaçoban"
+        },
+        {
+          "cityId": 25,
+          "name": "Karayazı"
+        },
+        {
+          "cityId": 25,
+          "name": "Köprüköy"
+        },
+        {
+          "cityId": 25,
+          "name": "Narman"
+        },
+        {
+          "cityId": 25,
+          "name": "Oltu"
+        },
+        {
+          "cityId": 25,
+          "name": "Olur"
+        },
+        {
+          "cityId": 25,
+          "name": "Palandöken"
+        },
+        {
+          "cityId": 25,
+          "name": "Pasinler"
+        },
+        {
+          "cityId": 25,
+          "name": "Pazaryolu"
+        },
+        {
+          "cityId": 25,
+          "name": "Şenkaya"
+        },
+        {
+          "cityId": 25,
+          "name": "Tekman"
+        },
+        {
+          "cityId": 25,
+          "name": "Tortum"
+        },
+        {
+          "cityId": 25,
+          "name": "Uzundere"
+        },
+        {
+          "cityId": 25,
+          "name": "Yakutiye"
+        },
+        {
+          "cityId": 26,
+          "name": "Alpu"
+        },
+        {
+          "cityId": 26,
+          "name": "Beylikova"
+        },
+        {
+          "cityId": 26,
+          "name": "Çifteler"
+        },
+        {
+          "cityId": 26,
+          "name": "Günyüzü"
+        },
+        {
+          "cityId": 26,
+          "name": "Han"
+        },
+        {
+          "cityId": 26,
+          "name": "İnönü"
+        },
+        {
+          "cityId": 26,
+          "name": "Mahmudiye"
+        },
+        {
+          "cityId": 26,
+          "name": "Mihalgazi"
+        },
+        {
+          "cityId": 26,
+          "name": "Mihalıççık"
+        },
+        {
+          "cityId": 26,
+          "name": "Odunpazarı"
+        },
+        {
+          "cityId": 26,
+          "name": "Sarıcakaya"
+        },
+        {
+          "cityId": 26,
+          "name": "Seyitgazi"
+        },
+        {
+          "cityId": 26,
+          "name": "Sivrihisar"
+        },
+        {
+          "cityId": 26,
+          "name": "Tepebaşı"
+        },
+        {
+          "cityId": 27,
+          "name": "Araban"
+        },
+        {
+          "cityId": 27,
+          "name": "İslahiye"
+        },
+        {
+          "cityId": 27,
+          "name": "Karkamış"
+        },
+        {
+          "cityId": 27,
+          "name": "Nizip"
+        },
+        {
+          "cityId": 27,
+          "name": "Nurdağı"
+        },
+        {
+          "cityId": 27,
+          "name": "Oğuzeli"
+        },
+        {
+          "cityId": 27,
+          "name": "Şahinbey"
+        },
+        {
+          "cityId": 27,
+          "name": "Şehitkamil"
+        },
+        {
+          "cityId": 27,
+          "name": "Yavuzeli"
+        },
+        {
+          "cityId": 28,
+          "name": "Alucra"
+        },
+        {
+          "cityId": 28,
+          "name": "Bulancak"
+        },
+        {
+          "cityId": 28,
+          "name": "Çamoluk"
+        },
+        {
+          "cityId": 28,
+          "name": "Çanakçı"
+        },
+        {
+          "cityId": 28,
+          "name": "Dereli"
+        },
+        {
+          "cityId": 28,
+          "name": "Doğankent"
+        },
+        {
+          "cityId": 28,
+          "name": "Espiye"
+        },
+        {
+          "cityId": 28,
+          "name": "Eynesil"
+        },
+        {
+          "cityId": 28,
+          "name": "Görele"
+        },
+        {
+          "cityId": 28,
+          "name": "Güce"
+        },
+        {
+          "cityId": 28,
+          "name": "Keşap"
+        },
+        {
+          "cityId": 28,
+          "name": "Piraziz"
+        },
+        {
+          "cityId": 28,
+          "name": "Şebinkarahisar"
+        },
+        {
+          "cityId": 28,
+          "name": "Tirebolu"
+        },
+        {
+          "cityId": 28,
+          "name": "Yağlıdere"
+        },
+        {
+          "cityId": 29,
+          "name": "Kelkit"
+        },
+        {
+          "cityId": 29,
+          "name": "Köse"
+        },
+        {
+          "cityId": 29,
+          "name": "Kürtün"
+        },
+        {
+          "cityId": 29,
+          "name": "Şiran"
+        },
+        {
+          "cityId": 29,
+          "name": "Torul"
+        },
+        {
+          "cityId": 30,
+          "name": "Çukurca"
+        },
+        {
+          "cityId": 30,
+          "name": "Derecik"
+        },
+        {
+          "cityId": 30,
+          "name": "Şemdinli"
+        },
+        {
+          "cityId": 30,
+          "name": "Yüksekova"
+        },
+        {
+          "cityId": 31,
+          "name": "Altınözü"
+        },
+        {
+          "cityId": 31,
+          "name": "Antakya"
+        },
+        {
+          "cityId": 31,
+          "name": "Arsuz"
+        },
+        {
+          "cityId": 31,
+          "name": "Belen"
+        },
+        {
+          "cityId": 31,
+          "name": "Defne"
+        },
+        {
+          "cityId": 31,
+          "name": "Dörtyol"
+        },
+        {
+          "cityId": 31,
+          "name": "Erzin"
+        },
+        {
+          "cityId": 31,
+          "name": "Hassa"
+        },
+        {
+          "cityId": 31,
+          "name": "İskenderun"
+        },
+        {
+          "cityId": 31,
+          "name": "Kırıkhan"
+        },
+        {
+          "cityId": 31,
+          "name": "Kumlu"
+        },
+        {
+          "cityId": 31,
+          "name": "Payas"
+        },
+        {
+          "cityId": 31,
+          "name": "Reyhanlı"
+        },
+        {
+          "cityId": 31,
+          "name": "Samandağ"
+        },
+        {
+          "cityId": 31,
+          "name": "Yayladağı"
+        },
+        {
+          "cityId": 32,
+          "name": "Aksu"
+        },
+        {
+          "cityId": 32,
+          "name": "Atabey"
+        },
+        {
+          "cityId": 32,
+          "name": "Eğirdir"
+        },
+        {
+          "cityId": 32,
+          "name": "Gelendost"
+        },
+        {
+          "cityId": 32,
+          "name": "Gönen"
+        },
+        {
+          "cityId": 32,
+          "name": "Keçiborlu"
+        },
+        {
+          "cityId": 32,
+          "name": "Senirkent"
+        },
+        {
+          "cityId": 32,
+          "name": "Sütçüler"
+        },
+        {
+          "cityId": 32,
+          "name": "Şarkikaraağaç"
+        },
+        {
+          "cityId": 32,
+          "name": "Uluborlu"
+        },
+        {
+          "cityId": 32,
+          "name": "Yalvaç"
+        },
+        {
+          "cityId": 32,
+          "name": "Yenişarbademli"
+        },
+        {
+          "cityId": 33,
+          "name": "Akdeniz"
+        },
+        {
+          "cityId": 33,
+          "name": "Anamur"
+        },
+        {
+          "cityId": 33,
+          "name": "Aydıncık"
+        },
+        {
+          "cityId": 33,
+          "name": "Bozyazı"
+        },
+        {
+          "cityId": 33,
+          "name": "Çamlıyayla"
+        },
+        {
+          "cityId": 33,
+          "name": "Erdemli"
+        },
+        {
+          "cityId": 33,
+          "name": "Gülnar"
+        },
+        {
+          "cityId": 33,
+          "name": "Mezitli"
+        },
+        {
+          "cityId": 33,
+          "name": "Mut"
+        },
+        {
+          "cityId": 33,
+          "name": "Silifke"
+        },
+        {
+          "cityId": 33,
+          "name": "Tarsus"
+        },
+        {
+          "cityId": 33,
+          "name": "Toroslar"
+        },
+        {
+          "cityId": 33,
+          "name": "Yenişehir"
+        },
+        {
+          "cityId": 34,
+          "name": "Adalar"
+        },
+        {
+          "cityId": 34,
+          "name": "Arnavutköy"
+        },
+        {
+          "cityId": 34,
+          "name": "Ataşehir"
+        },
+        {
+          "cityId": 34,
+          "name": "Avcılar"
+        },
+        {
+          "cityId": 34,
+          "name": "Bağcılar"
+        },
+        {
+          "cityId": 34,
+          "name": "Bahçelievler"
+        },
+        {
+          "cityId": 34,
+          "name": "Bakırköy"
+        },
+        {
+          "cityId": 34,
+          "name": "Başakşehir"
+        },
+        {
+          "cityId": 34,
+          "name": "Bayrampaşa"
+        },
+        {
+          "cityId": 34,
+          "name": "Beşiktaş"
+        },
+        {
+          "cityId": 34,
+          "name": "Beykoz"
+        },
+        {
+          "cityId": 34,
+          "name": "Beylikdüzü"
+        },
+        {
+          "cityId": 34,
+          "name": "Beyoğlu"
+        },
+        {
+          "cityId": 34,
+          "name": "Büyükçekmece"
+        },
+        {
+          "cityId": 34,
+          "name": "Çatalca"
+        },
+        {
+          "cityId": 34,
+          "name": "Çekmeköy"
+        },
+        {
+          "cityId": 34,
+          "name": "Esenler"
+        },
+        {
+          "cityId": 34,
+          "name": "Esenyurt"
+        },
+        {
+          "cityId": 34,
+          "name": "Eyüp"
+        },
+        {
+          "cityId": 34,
+          "name": "Fatih"
+        },
+        {
+          "cityId": 34,
+          "name": "Gaziosmanpaşa"
+        },
+        {
+          "cityId": 34,
+          "name": "Güngören"
+        },
+        {
+          "cityId": 34,
+          "name": "Kadıköy"
+        },
+        {
+          "cityId": 34,
+          "name": "Kağıthane"
+        },
+        {
+          "cityId": 34,
+          "name": "Kartal"
+        },
+        {
+          "cityId": 34,
+          "name": "Küçükçekmece"
+        },
+        {
+          "cityId": 34,
+          "name": "Maltepe"
+        },
+        {
+          "cityId": 34,
+          "name": "Pendik"
+        },
+        {
+          "cityId": 34,
+          "name": "Sancaktepe"
+        },
+        {
+          "cityId": 34,
+          "name": "Sarıyer"
+        },
+        {
+          "cityId": 34,
+          "name": "Silivri"
+        },
+        {
+          "cityId": 34,
+          "name": "Sultanbeyli"
+        },
+        {
+          "cityId": 34,
+          "name": "Sultangazi"
+        },
+        {
+          "cityId": 34,
+          "name": "Şile"
+        },
+        {
+          "cityId": 34,
+          "name": "Şişli"
+        },
+        {
+          "cityId": 34,
+          "name": "Tuzla"
+        },
+        {
+          "cityId": 34,
+          "name": "Ümraniye"
+        },
+        {
+          "cityId": 34,
+          "name": "Üsküdar"
+        },
+        {
+          "cityId": 34,
+          "name": "Zeytinburnu"
+        },
+        {
+          "cityId": 35,
+          "name": "Aliağa"
+        },
+        {
+          "cityId": 35,
+          "name": "Balçova"
+        },
+        {
+          "cityId": 35,
+          "name": "Bayındır"
+        },
+        {
+          "cityId": 35,
+          "name": "Bayraklı"
+        },
+        {
+          "cityId": 35,
+          "name": "Bergama"
+        },
+        {
+          "cityId": 35,
+          "name": "Beydağ"
+        },
+        {
+          "cityId": 35,
+          "name": "Bornova"
+        },
+        {
+          "cityId": 35,
+          "name": "Buca"
+        },
+        {
+          "cityId": 35,
+          "name": "Çeşme"
+        },
+        {
+          "cityId": 35,
+          "name": "Çiğli"
+        },
+        {
+          "cityId": 35,
+          "name": "Dikili"
+        },
+        {
+          "cityId": 35,
+          "name": "Foça"
+        },
+        {
+          "cityId": 35,
+          "name": "Gaziemir"
+        },
+        {
+          "cityId": 35,
+          "name": "Güzelbahçe"
+        },
+        {
+          "cityId": 35,
+          "name": "Karabağlar"
+        },
+        {
+          "cityId": 35,
+          "name": "Karaburun"
+        },
+        {
+          "cityId": 35,
+          "name": "Karşıyaka"
+        },
+        {
+          "cityId": 35,
+          "name": "Kemalpaşa"
+        },
+        {
+          "cityId": 35,
+          "name": "Kınık"
+        },
+        {
+          "cityId": 35,
+          "name": "Kiraz"
+        },
+        {
+          "cityId": 35,
+          "name": "Konak"
+        },
+        {
+          "cityId": 35,
+          "name": "Menderes"
+        },
+        {
+          "cityId": 35,
+          "name": "Menemen"
+        },
+        {
+          "cityId": 35,
+          "name": "Narlıdere"
+        },
+        {
+          "cityId": 35,
+          "name": "Ödemiş"
+        },
+        {
+          "cityId": 35,
+          "name": "Seferihisar"
+        },
+        {
+          "cityId": 35,
+          "name": "Selçuk"
+        },
+        {
+          "cityId": 35,
+          "name": "Tire"
+        },
+        {
+          "cityId": 35,
+          "name": "Torbalı"
+        },
+        {
+          "cityId": 35,
+          "name": "Urla"
+        },
+        {
+          "cityId": 36,
+          "name": "Akyaka"
+        },
+        {
+          "cityId": 36,
+          "name": "Arpaçay"
+        },
+        {
+          "cityId": 36,
+          "name": "Digor"
+        },
+        {
+          "cityId": 36,
+          "name": "Kağızman"
+        },
+        {
+          "cityId": 36,
+          "name": "Sarıkamış"
+        },
+        {
+          "cityId": 36,
+          "name": "Selim"
+        },
+        {
+          "cityId": 36,
+          "name": "Susuz"
+        },
+        {
+          "cityId": 37,
+          "name": "Abana"
+        },
+        {
+          "cityId": 37,
+          "name": "Ağlı"
+        },
+        {
+          "cityId": 37,
+          "name": "Araç"
+        },
+        {
+          "cityId": 37,
+          "name": "Azdavay"
+        },
+        {
+          "cityId": 37,
+          "name": "Bozkurt"
+        },
+        {
+          "cityId": 37,
+          "name": "Cide"
+        },
+        {
+          "cityId": 37,
+          "name": "Çatalzeytin"
+        },
+        {
+          "cityId": 37,
+          "name": "Daday"
+        },
+        {
+          "cityId": 37,
+          "name": "Devrekani"
+        },
+        {
+          "cityId": 37,
+          "name": "Doğanyurt"
+        },
+        {
+          "cityId": 37,
+          "name": "Hanönü"
+        },
+        {
+          "cityId": 37,
+          "name": "İhsangazi"
+        },
+        {
+          "cityId": 37,
+          "name": "İnebolu"
+        },
+        {
+          "cityId": 37,
+          "name": "Küre"
+        },
+        {
+          "cityId": 37,
+          "name": "Pınarbaşı"
+        },
+        {
+          "cityId": 37,
+          "name": "Seydiler"
+        },
+        {
+          "cityId": 37,
+          "name": "Şenpazar"
+        },
+        {
+          "cityId": 37,
+          "name": "Taşköprü"
+        },
+        {
+          "cityId": 37,
+          "name": "Tosya"
+        },
+        {
+          "cityId": 38,
+          "name": "Akkışla"
+        },
+        {
+          "cityId": 38,
+          "name": "Bünyan"
+        },
+        {
+          "cityId": 38,
+          "name": "Develi"
+        },
+        {
+          "cityId": 38,
+          "name": "Felahiye"
+        },
+        {
+          "cityId": 38,
+          "name": "Hacılar"
+        },
+        {
+          "cityId": 38,
+          "name": "İncesu"
+        },
+        {
+          "cityId": 38,
+          "name": "Kocasinan"
+        },
+        {
+          "cityId": 38,
+          "name": "Melikgazi"
+        },
+        {
+          "cityId": 38,
+          "name": "Özvatan"
+        },
+        {
+          "cityId": 38,
+          "name": "Pınarbaşı"
+        },
+        {
+          "cityId": 38,
+          "name": "Sarıoğlan"
+        },
+        {
+          "cityId": 38,
+          "name": "Sarız"
+        },
+        {
+          "cityId": 38,
+          "name": "Talas"
+        },
+        {
+          "cityId": 38,
+          "name": "Tomarza"
+        },
+        {
+          "cityId": 38,
+          "name": "Yahyalı"
+        },
+        {
+          "cityId": 38,
+          "name": "Yeşilhisar"
+        },
+        {
+          "cityId": 39,
+          "name": "Babaeski"
+        },
+        {
+          "cityId": 39,
+          "name": "Demirköy"
+        },
+        {
+          "cityId": 39,
+          "name": "Kofçaz"
+        },
+        {
+          "cityId": 39,
+          "name": "Lüleburgaz"
+        },
+        {
+          "cityId": 39,
+          "name": "Pehlivanköy"
+        },
+        {
+          "cityId": 39,
+          "name": "Pınarhisar"
+        },
+        {
+          "cityId": 39,
+          "name": "Vize"
+        },
+        {
+          "cityId": 40,
+          "name": "Akçakent"
+        },
+        {
+          "cityId": 40,
+          "name": "Akpınar"
+        },
+        {
+          "cityId": 40,
+          "name": "Boztepe"
+        },
+        {
+          "cityId": 40,
+          "name": "Çiçekdağı"
+        },
+        {
+          "cityId": 40,
+          "name": "Kaman"
+        },
+        {
+          "cityId": 40,
+          "name": "Mucur"
+        },
+        {
+          "cityId": 41,
+          "name": "Başiskele"
+        },
+        {
+          "cityId": 41,
+          "name": "Çayırova"
+        },
+        {
+          "cityId": 41,
+          "name": "Darıca"
+        },
+        {
+          "cityId": 41,
+          "name": "Derince"
+        },
+        {
+          "cityId": 41,
+          "name": "Dilovası"
+        },
+        {
+          "cityId": 41,
+          "name": "Gebze"
+        },
+        {
+          "cityId": 41,
+          "name": "Gölcük"
+        },
+        {
+          "cityId": 41,
+          "name": "İzmit"
+        },
+        {
+          "cityId": 41,
+          "name": "Kandıra"
+        },
+        {
+          "cityId": 41,
+          "name": "Karamürsel"
+        },
+        {
+          "cityId": 41,
+          "name": "Kartepe"
+        },
+        {
+          "cityId": 41,
+          "name": "Körfez"
+        },
+        {
+          "cityId": 42,
+          "name": "Ahırlı"
+        },
+        {
+          "cityId": 42,
+          "name": "Akören"
+        },
+        {
+          "cityId": 42,
+          "name": "Akşehir"
+        },
+        {
+          "cityId": 42,
+          "name": "Altınekin"
+        },
+        {
+          "cityId": 42,
+          "name": "Beyşehir"
+        },
+        {
+          "cityId": 42,
+          "name": "Bozkır"
+        },
+        {
+          "cityId": 42,
+          "name": "Cihanbeyli"
+        },
+        {
+          "cityId": 42,
+          "name": "Çeltik"
+        },
+        {
+          "cityId": 42,
+          "name": "Çumra"
+        },
+        {
+          "cityId": 42,
+          "name": "Derbent"
+        },
+        {
+          "cityId": 42,
+          "name": "Derebucak"
+        },
+        {
+          "cityId": 42,
+          "name": "Doğanhisar"
+        },
+        {
+          "cityId": 42,
+          "name": "Emirgazi"
+        },
+        {
+          "cityId": 42,
+          "name": "Ereğli"
+        },
+        {
+          "cityId": 42,
+          "name": "Güneysınır"
+        },
+        {
+          "cityId": 42,
+          "name": "Hadim"
+        },
+        {
+          "cityId": 42,
+          "name": "Halkapınar"
+        },
+        {
+          "cityId": 42,
+          "name": "Hüyük"
+        },
+        {
+          "cityId": 42,
+          "name": "Ilgın"
+        },
+        {
+          "cityId": 42,
+          "name": "Kadınhanı"
+        },
+        {
+          "cityId": 42,
+          "name": "Karapınar"
+        },
+        {
+          "cityId": 42,
+          "name": "Karatay"
+        },
+        {
+          "cityId": 42,
+          "name": "Kulu"
+        },
+        {
+          "cityId": 42,
+          "name": "Meram"
+        },
+        {
+          "cityId": 42,
+          "name": "Sarayönü"
+        },
+        {
+          "cityId": 42,
+          "name": "Selçuklu"
+        },
+        {
+          "cityId": 42,
+          "name": "Seydişehir"
+        },
+        {
+          "cityId": 42,
+          "name": "Taşkent"
+        },
+        {
+          "cityId": 42,
+          "name": "Tuzlukçu"
+        },
+        {
+          "cityId": 42,
+          "name": "Yalıhüyük"
+        },
+        {
+          "cityId": 42,
+          "name": "Yunak"
+        },
+        {
+          "cityId": 43,
+          "name": "Altıntaş"
+        },
+        {
+          "cityId": 43,
+          "name": "Aslanapa"
+        },
+        {
+          "cityId": 43,
+          "name": "Çavdarhisar"
+        },
+        {
+          "cityId": 43,
+          "name": "Domaniç"
+        },
+        {
+          "cityId": 43,
+          "name": "Dumlupınar"
+        },
+        {
+          "cityId": 43,
+          "name": "Emet"
+        },
+        {
+          "cityId": 43,
+          "name": "Gediz"
+        },
+        {
+          "cityId": 43,
+          "name": "Hisarcık"
+        },
+        {
+          "cityId": 43,
+          "name": "Pazarlar"
+        },
+        {
+          "cityId": 43,
+          "name": "Simav"
+        },
+        {
+          "cityId": 43,
+          "name": "Şaphane"
+        },
+        {
+          "cityId": 43,
+          "name": "Tavşanlı"
+        },
+        {
+          "cityId": 44,
+          "name": "Akçadağ"
+        },
+        {
+          "cityId": 44,
+          "name": "Arapgir"
+        },
+        {
+          "cityId": 44,
+          "name": "Arguvan"
+        },
+        {
+          "cityId": 44,
+          "name": "Battalgazi"
+        },
+        {
+          "cityId": 44,
+          "name": "Darende"
+        },
+        {
+          "cityId": 44,
+          "name": "Doğanşehir"
+        },
+        {
+          "cityId": 44,
+          "name": "Doğanyol"
+        },
+        {
+          "cityId": 44,
+          "name": "Hekimhan"
+        },
+        {
+          "cityId": 44,
+          "name": "Kale"
+        },
+        {
+          "cityId": 44,
+          "name": "Kuluncak"
+        },
+        {
+          "cityId": 44,
+          "name": "Pütürge"
+        },
+        {
+          "cityId": 44,
+          "name": "Yazıhan"
+        },
+        {
+          "cityId": 44,
+          "name": "Yeşilyurt"
+        },
+        {
+          "cityId": 45,
+          "name": "Ahmetli"
+        },
+        {
+          "cityId": 45,
+          "name": "Akhisar"
+        },
+        {
+          "cityId": 45,
+          "name": "Alaşehir"
+        },
+        {
+          "cityId": 45,
+          "name": "Demirci"
+        },
+        {
+          "cityId": 45,
+          "name": "Gölmarmara"
+        },
+        {
+          "cityId": 45,
+          "name": "Gördes"
+        },
+        {
+          "cityId": 45,
+          "name": "Kırkağaç"
+        },
+        {
+          "cityId": 45,
+          "name": "Köprübaşı"
+        },
+        {
+          "cityId": 45,
+          "name": "Kula"
+        },
+        {
+          "cityId": 45,
+          "name": "Salihli"
+        },
+        {
+          "cityId": 45,
+          "name": "Sarıgöl"
+        },
+        {
+          "cityId": 45,
+          "name": "Saruhanlı"
+        },
+        {
+          "cityId": 45,
+          "name": "Selendi"
+        },
+        {
+          "cityId": 45,
+          "name": "Soma"
+        },
+        {
+          "cityId": 45,
+          "name": "Şehzadeler"
+        },
+        {
+          "cityId": 45,
+          "name": "Turgutlu"
+        },
+        {
+          "cityId": 45,
+          "name": "Yunusemre"
+        },
+        {
+          "cityId": 46,
+          "name": "Afşin"
+        },
+        {
+          "cityId": 46,
+          "name": "Andırın"
+        },
+        {
+          "cityId": 46,
+          "name": "Çağlayancerit"
+        },
+        {
+          "cityId": 46,
+          "name": "Dulkadiroğlu"
+        },
+        {
+          "cityId": 46,
+          "name": "Ekinözü"
+        },
+        {
+          "cityId": 46,
+          "name": "Elbistan"
+        },
+        {
+          "cityId": 46,
+          "name": "Göksun"
+        },
+        {
+          "cityId": 46,
+          "name": "Nurhak"
+        },
+        {
+          "cityId": 46,
+          "name": "Onikişubat"
+        },
+        {
+          "cityId": 46,
+          "name": "Pazarcık"
+        },
+        {
+          "cityId": 46,
+          "name": "Türkoğlu"
+        },
+        {
+          "cityId": 47,
+          "name": "Artuklu"
+        },
+        {
+          "cityId": 47,
+          "name": "Dargeçit"
+        },
+        {
+          "cityId": 47,
+          "name": "Derik"
+        },
+        {
+          "cityId": 47,
+          "name": "Kızıltepe"
+        },
+        {
+          "cityId": 47,
+          "name": "Mazıdağı"
+        },
+        {
+          "cityId": 47,
+          "name": "Midyat"
+        },
+        {
+          "cityId": 47,
+          "name": "Nusaybin"
+        },
+        {
+          "cityId": 47,
+          "name": "Ömerli"
+        },
+        {
+          "cityId": 47,
+          "name": "Savur"
+        },
+        {
+          "cityId": 47,
+          "name": "Yeşilli"
+        },
+        {
+          "cityId": 48,
+          "name": "Bodrum"
+        },
+        {
+          "cityId": 48,
+          "name": "Dalaman"
+        },
+        {
+          "cityId": 48,
+          "name": "Datça"
+        },
+        {
+          "cityId": 48,
+          "name": "Fethiye"
+        },
+        {
+          "cityId": 48,
+          "name": "Kavaklıdere"
+        },
+        {
+          "cityId": 48,
+          "name": "Köyceğiz"
+        },
+        {
+          "cityId": 48,
+          "name": "Marmaris"
+        },
+        {
+          "cityId": 48,
+          "name": "Menteşe"
+        },
+        {
+          "cityId": 48,
+          "name": "Milas"
+        },
+        {
+          "cityId": 48,
+          "name": "Ortaca"
+        },
+        {
+          "cityId": 48,
+          "name": "Seydikemer"
+        },
+        {
+          "cityId": 48,
+          "name": "Ula"
+        },
+        {
+          "cityId": 48,
+          "name": "Yatağan"
+        },
+        {
+          "cityId": 49,
+          "name": "Bulanık"
+        },
+        {
+          "cityId": 49,
+          "name": "Hasköy"
+        },
+        {
+          "cityId": 49,
+          "name": "Korkut"
+        },
+        {
+          "cityId": 49,
+          "name": "Malazgirt"
+        },
+        {
+          "cityId": 49,
+          "name": "Varto"
+        },
+        {
+          "cityId": 50,
+          "name": "Acıgöl"
+        },
+        {
+          "cityId": 50,
+          "name": "Avanos"
+        },
+        {
+          "cityId": 50,
+          "name": "Derinkuyu"
+        },
+        {
+          "cityId": 50,
+          "name": "Gülşehir"
+        },
+        {
+          "cityId": 50,
+          "name": "Hacıbektaş"
+        },
+        {
+          "cityId": 50,
+          "name": "Kozaklı"
+        },
+        {
+          "cityId": 50,
+          "name": "Ürgüp"
+        },
+        {
+          "cityId": 51,
+          "name": "Altunhisar"
+        },
+        {
+          "cityId": 51,
+          "name": "Bor"
+        },
+        {
+          "cityId": 51,
+          "name": "Çamardı"
+        },
+        {
+          "cityId": 51,
+          "name": "Çiftlik"
+        },
+        {
+          "cityId": 51,
+          "name": "Ulukışla"
+        },
+        {
+          "cityId": 52,
+          "name": "Akkuş"
+        },
+        {
+          "cityId": 52,
+          "name": "Altınordu"
+        },
+        {
+          "cityId": 52,
+          "name": "Aybastı"
+        },
+        {
+          "cityId": 52,
+          "name": "Çamaş"
+        },
+        {
+          "cityId": 52,
+          "name": "Çatalpınar"
+        },
+        {
+          "cityId": 52,
+          "name": "Çaybaşı"
+        },
+        {
+          "cityId": 52,
+          "name": "Fatsa"
+        },
+        {
+          "cityId": 52,
+          "name": "Gölköy"
+        },
+        {
+          "cityId": 52,
+          "name": "Gülyalı"
+        },
+        {
+          "cityId": 52,
+          "name": "Gürgentepe"
+        },
+        {
+          "cityId": 52,
+          "name": "İkizce"
+        },
+        {
+          "cityId": 52,
+          "name": "Kabadüz"
+        },
+        {
+          "cityId": 52,
+          "name": "Kabataş"
+        },
+        {
+          "cityId": 52,
+          "name": "Korgan"
+        },
+        {
+          "cityId": 52,
+          "name": "Kumru"
+        },
+        {
+          "cityId": 52,
+          "name": "Mesudiye"
+        },
+        {
+          "cityId": 52,
+          "name": "Perşembe"
+        },
+        {
+          "cityId": 52,
+          "name": "Ulubey"
+        },
+        {
+          "cityId": 52,
+          "name": "Ünye"
+        },
+        {
+          "cityId": 53,
+          "name": "Ardeşen"
+        },
+        {
+          "cityId": 53,
+          "name": "Çamlıhemşin"
+        },
+        {
+          "cityId": 53,
+          "name": "Çayeli"
+        },
+        {
+          "cityId": 53,
+          "name": "Derepazarı"
+        },
+        {
+          "cityId": 53,
+          "name": "Fındıklı"
+        },
+        {
+          "cityId": 53,
+          "name": "Güneysu"
+        },
+        {
+          "cityId": 53,
+          "name": "Hemşin"
+        },
+        {
+          "cityId": 53,
+          "name": "İkizdere"
+        },
+        {
+          "cityId": 53,
+          "name": "İyidere"
+        },
+        {
+          "cityId": 53,
+          "name": "Kalkandere"
+        },
+        {
+          "cityId": 53,
+          "name": "Pazar"
+        },
+        {
+          "cityId": 54,
+          "name": "Adapazarı"
+        },
+        {
+          "cityId": 54,
+          "name": "Akyazı"
+        },
+        {
+          "cityId": 54,
+          "name": "Arifiye"
+        },
+        {
+          "cityId": 54,
+          "name": "Erenler"
+        },
+        {
+          "cityId": 54,
+          "name": "Ferizli"
+        },
+        {
+          "cityId": 54,
+          "name": "Geyve"
+        },
+        {
+          "cityId": 54,
+          "name": "Hendek"
+        },
+        {
+          "cityId": 54,
+          "name": "Karapürçek"
+        },
+        {
+          "cityId": 54,
+          "name": "Karasu"
+        },
+        {
+          "cityId": 54,
+          "name": "Kaynarca"
+        },
+        {
+          "cityId": 54,
+          "name": "Kocaali"
+        },
+        {
+          "cityId": 54,
+          "name": "Pamukova"
+        },
+        {
+          "cityId": 54,
+          "name": "Sapanca"
+        },
+        {
+          "cityId": 54,
+          "name": "Serdivan"
+        },
+        {
+          "cityId": 54,
+          "name": "Söğütlü"
+        },
+        {
+          "cityId": 54,
+          "name": "Taraklı"
+        },
+        {
+          "cityId": 55,
+          "name": "Ondokuz Mayıs"
+        },
+        {
+          "cityId": 55,
+          "name": "Alaçam"
+        },
+        {
+          "cityId": 55,
+          "name": "Asarcık"
+        },
+        {
+          "cityId": 55,
+          "name": "Atakum"
+        },
+        {
+          "cityId": 55,
+          "name": "Ayvacık"
+        },
+        {
+          "cityId": 55,
+          "name": "Bafra"
+        },
+        {
+          "cityId": 55,
+          "name": "Canik"
+        },
+        {
+          "cityId": 55,
+          "name": "Çarşamba"
+        },
+        {
+          "cityId": 55,
+          "name": "Havza"
+        },
+        {
+          "cityId": 55,
+          "name": "İlkadım"
+        },
+        {
+          "cityId": 55,
+          "name": "Kavak"
+        },
+        {
+          "cityId": 55,
+          "name": "Ladik"
+        },
+        {
+          "cityId": 55,
+          "name": "Salıpazarı"
+        },
+        {
+          "cityId": 55,
+          "name": "Tekkeköy"
+        },
+        {
+          "cityId": 55,
+          "name": "Terme"
+        },
+        {
+          "cityId": 55,
+          "name": "Vezirköprü"
+        },
+        {
+          "cityId": 55,
+          "name": "Yakakent"
+        },
+        {
+          "cityId": 56,
+          "name": "Baykan"
+        },
+        {
+          "cityId": 56,
+          "name": "Eruh"
+        },
+        {
+          "cityId": 56,
+          "name": "Kurtalan"
+        },
+        {
+          "cityId": 56,
+          "name": "Pervari"
+        },
+        {
+          "cityId": 56,
+          "name": "Şirvan"
+        },
+        {
+          "cityId": 56,
+          "name": "Tillo"
+        },
+        {
+          "cityId": 57,
+          "name": "Ayancık"
+        },
+        {
+          "cityId": 57,
+          "name": "Boyabat"
+        },
+        {
+          "cityId": 57,
+          "name": "Dikmen"
+        },
+        {
+          "cityId": 57,
+          "name": "Durağan"
+        },
+        {
+          "cityId": 57,
+          "name": "Erfelek"
+        },
+        {
+          "cityId": 57,
+          "name": "Gerze"
+        },
+        {
+          "cityId": 57,
+          "name": "Saraydüzü"
+        },
+        {
+          "cityId": 57,
+          "name": "Türkeli"
+        },
+        {
+          "cityId": 58,
+          "name": "Akıncılar"
+        },
+        {
+          "cityId": 58,
+          "name": "Altınyayla"
+        },
+        {
+          "cityId": 58,
+          "name": "Divriği"
+        },
+        {
+          "cityId": 58,
+          "name": "Doğanşar"
+        },
+        {
+          "cityId": 58,
+          "name": "Gemerek"
+        },
+        {
+          "cityId": 58,
+          "name": "Gölova"
+        },
+        {
+          "cityId": 58,
+          "name": "Gürün"
+        },
+        {
+          "cityId": 58,
+          "name": "Hafik"
+        },
+        {
+          "cityId": 58,
+          "name": "İmranlı"
+        },
+        {
+          "cityId": 58,
+          "name": "Kangal"
+        },
+        {
+          "cityId": 58,
+          "name": "Koyulhisar"
+        },
+        {
+          "cityId": 58,
+          "name": "Suşehri"
+        },
+        {
+          "cityId": 58,
+          "name": "Şarkışla"
+        },
+        {
+          "cityId": 58,
+          "name": "Ulaş"
+        },
+        {
+          "cityId": 58,
+          "name": "Yıldızeli"
+        },
+        {
+          "cityId": 58,
+          "name": "Zara"
+        },
+        {
+          "cityId": 59,
+          "name": "Çerkezköy"
+        },
+        {
+          "cityId": 59,
+          "name": "Çorlu"
+        },
+        {
+          "cityId": 59,
+          "name": "Ergene"
+        },
+        {
+          "cityId": 59,
+          "name": "Hayrabolu"
+        },
+        {
+          "cityId": 59,
+          "name": "Kapaklı"
+        },
+        {
+          "cityId": 59,
+          "name": "Malkara"
+        },
+        {
+          "cityId": 59,
+          "name": "Marmaraereğlisi"
+        },
+        {
+          "cityId": 59,
+          "name": "Muratlı"
+        },
+        {
+          "cityId": 59,
+          "name": "Saray"
+        },
+        {
+          "cityId": 59,
+          "name": "Süleymanpaşa"
+        },
+        {
+          "cityId": 59,
+          "name": "Şarköy"
+        },
+        {
+          "cityId": 60,
+          "name": "Almus"
+        },
+        {
+          "cityId": 60,
+          "name": "Artova"
+        },
+        {
+          "cityId": 60,
+          "name": "Başçiftlik"
+        },
+        {
+          "cityId": 60,
+          "name": "Erbaa"
+        },
+        {
+          "cityId": 60,
+          "name": "Niksar"
+        },
+        {
+          "cityId": 60,
+          "name": "Pazar"
+        },
+        {
+          "cityId": 60,
+          "name": "Reşadiye"
+        },
+        {
+          "cityId": 60,
+          "name": "Sulusaray"
+        },
+        {
+          "cityId": 60,
+          "name": "Turhal"
+        },
+        {
+          "cityId": 60,
+          "name": "Yeşilyurt"
+        },
+        {
+          "cityId": 60,
+          "name": "Zile"
+        },
+        {
+          "cityId": 61,
+          "name": "Akçaabat"
+        },
+        {
+          "cityId": 61,
+          "name": "Araklı"
+        },
+        {
+          "cityId": 61,
+          "name": "Arsin"
+        },
+        {
+          "cityId": 61,
+          "name": "Beşikdüzü"
+        },
+        {
+          "cityId": 61,
+          "name": "Çarşıbaşı"
+        },
+        {
+          "cityId": 61,
+          "name": "Çaykara"
+        },
+        {
+          "cityId": 61,
+          "name": "Dernekpazarı"
+        },
+        {
+          "cityId": 61,
+          "name": "Düzköy"
+        },
+        {
+          "cityId": 61,
+          "name": "Hayrat"
+        },
+        {
+          "cityId": 61,
+          "name": "Köprübaşı"
+        },
+        {
+          "cityId": 61,
+          "name": "Maçka"
+        },
+        {
+          "cityId": 61,
+          "name": "Of"
+        },
+        {
+          "cityId": 61,
+          "name": "Ortahisar"
+        },
+        {
+          "cityId": 61,
+          "name": "Sürmene"
+        },
+        {
+          "cityId": 61,
+          "name": "Şalpazarı"
+        },
+        {
+          "cityId": 61,
+          "name": "Tonya"
+        },
+        {
+          "cityId": 61,
+          "name": "Vakfıkebir"
+        },
+        {
+          "cityId": 61,
+          "name": "Yomra"
+        },
+        {
+          "cityId": 62,
+          "name": "Çemişgezek"
+        },
+        {
+          "cityId": 62,
+          "name": "Hozat"
+        },
+        {
+          "cityId": 62,
+          "name": "Mazgirt"
+        },
+        {
+          "cityId": 62,
+          "name": "Nazımiye"
+        },
+        {
+          "cityId": 62,
+          "name": "Ovacık"
+        },
+        {
+          "cityId": 62,
+          "name": "Pertek"
+        },
+        {
+          "cityId": 62,
+          "name": "Pülümür"
+        },
+        {
+          "cityId": 63,
+          "name": "Akçakale"
+        },
+        {
+          "cityId": 63,
+          "name": "Birecik"
+        },
+        {
+          "cityId": 63,
+          "name": "Bozova"
+        },
+        {
+          "cityId": 63,
+          "name": "Ceylanpınar"
+        },
+        {
+          "cityId": 63,
+          "name": "Eyyübiye"
+        },
+        {
+          "cityId": 63,
+          "name": "Halfeti"
+        },
+        {
+          "cityId": 63,
+          "name": "Haliliye"
+        },
+        {
+          "cityId": 63,
+          "name": "Harran"
+        },
+        {
+          "cityId": 63,
+          "name": "Hilvan"
+        },
+        {
+          "cityId": 63,
+          "name": "Karaköprü"
+        },
+        {
+          "cityId": 63,
+          "name": "Siverek"
+        },
+        {
+          "cityId": 63,
+          "name": "Suruç"
+        },
+        {
+          "cityId": 63,
+          "name": "Viranşehir"
+        },
+        {
+          "cityId": 64,
+          "name": "Banaz"
+        },
+        {
+          "cityId": 64,
+          "name": "Eşme"
+        },
+        {
+          "cityId": 64,
+          "name": "Karahallı"
+        },
+        {
+          "cityId": 64,
+          "name": "Sivaslı"
+        },
+        {
+          "cityId": 64,
+          "name": "Ulubey"
+        },
+        {
+          "cityId": 65,
+          "name": "Bahçesaray"
+        },
+        {
+          "cityId": 65,
+          "name": "Başkale"
+        },
+        {
+          "cityId": 65,
+          "name": "Çaldıran"
+        },
+        {
+          "cityId": 65,
+          "name": "Çatak"
+        },
+        {
+          "cityId": 65,
+          "name": "Edremit"
+        },
+        {
+          "cityId": 65,
+          "name": "Erciş"
+        },
+        {
+          "cityId": 65,
+          "name": "Gevaş"
+        },
+        {
+          "cityId": 65,
+          "name": "Gürpınar"
+        },
+        {
+          "cityId": 65,
+          "name": "İpekyolu"
+        },
+        {
+          "cityId": 65,
+          "name": "Muradiye"
+        },
+        {
+          "cityId": 65,
+          "name": "Özalp"
+        },
+        {
+          "cityId": 65,
+          "name": "Saray"
+        },
+        {
+          "cityId": 65,
+          "name": "Tuşba"
+        },
+        {
+          "cityId": 66,
+          "name": "Akdağmadeni"
+        },
+        {
+          "cityId": 66,
+          "name": "Aydıncık"
+        },
+        {
+          "cityId": 66,
+          "name": "Boğazlıyan"
+        },
+        {
+          "cityId": 66,
+          "name": "Çandır"
+        },
+        {
+          "cityId": 66,
+          "name": "Çayıralan"
+        },
+        {
+          "cityId": 66,
+          "name": "Çekerek"
+        },
+        {
+          "cityId": 66,
+          "name": "Kadışehri"
+        },
+        {
+          "cityId": 66,
+          "name": "Saraykent"
+        },
+        {
+          "cityId": 66,
+          "name": "Sarıkaya"
+        },
+        {
+          "cityId": 66,
+          "name": "Sorgun"
+        },
+        {
+          "cityId": 66,
+          "name": "Şefaatli"
+        },
+        {
+          "cityId": 66,
+          "name": "Yenifakılı"
+        },
+        {
+          "cityId": 66,
+          "name": "Yerköy"
+        },
+        {
+          "cityId": 67,
+          "name": "Alaplı"
+        },
+        {
+          "cityId": 67,
+          "name": "Çaycuma"
+        },
+        {
+          "cityId": 67,
+          "name": "Devrek"
+        },
+        {
+          "cityId": 67,
+          "name": "Ereğli"
+        },
+        {
+          "cityId": 67,
+          "name": "Gökçebey"
+        },
+        {
+          "cityId": 67,
+          "name": "Kilimli"
+        },
+        {
+          "cityId": 67,
+          "name": "Kozlu"
+        },
+        {
+          "cityId": 68,
+          "name": "Ağaçören"
+        },
+        {
+          "cityId": 68,
+          "name": "Eskil"
+        },
+        {
+          "cityId": 68,
+          "name": "Gülağaç"
+        },
+        {
+          "cityId": 68,
+          "name": "Güzelyurt"
+        },
+        {
+          "cityId": 68,
+          "name": "Ortaköy"
+        },
+        {
+          "cityId": 68,
+          "name": "Sarıyahşi"
+        },
+        {
+          "cityId": 68,
+          "name": "Sultanhanı"
+        },
+        {
+          "cityId": 69,
+          "name": "Aydıntepe"
+        },
+        {
+          "cityId": 69,
+          "name": "Demirözü"
+        },
+        {
+          "cityId": 70,
+          "name": "Ayrancı"
+        },
+        {
+          "cityId": 70,
+          "name": "Başyayla"
+        },
+        {
+          "cityId": 70,
+          "name": "Ermenek"
+        },
+        {
+          "cityId": 70,
+          "name": "Kazımkarabekir"
+        },
+        {
+          "cityId": 70,
+          "name": "Sarıveliler"
+        },
+        {
+          "cityId": 71,
+          "name": "Bahşili"
+        },
+        {
+          "cityId": 71,
+          "name": "Balışeyh"
+        },
+        {
+          "cityId": 71,
+          "name": "Çelebi"
+        },
+        {
+          "cityId": 71,
+          "name": "Delice"
+        },
+        {
+          "cityId": 71,
+          "name": "Karakeçili"
+        },
+        {
+          "cityId": 71,
+          "name": "Keskin"
+        },
+        {
+          "cityId": 71,
+          "name": "Sulakyurt"
+        },
+        {
+          "cityId": 71,
+          "name": "Yahşihan"
+        },
+        {
+          "cityId": 72,
+          "name": "Beşiri"
+        },
+        {
+          "cityId": 72,
+          "name": "Gercüş"
+        },
+        {
+          "cityId": 72,
+          "name": "Hasankeyf"
+        },
+        {
+          "cityId": 72,
+          "name": "Kozluk"
+        },
+        {
+          "cityId": 72,
+          "name": "Sason"
+        },
+        {
+          "cityId": 73,
+          "name": "Beytüşşebap"
+        },
+        {
+          "cityId": 73,
+          "name": "Cizre"
+        },
+        {
+          "cityId": 73,
+          "name": "Güçlükonak"
+        },
+        {
+          "cityId": 73,
+          "name": "İdil"
+        },
+        {
+          "cityId": 73,
+          "name": "Silopi"
+        },
+        {
+          "cityId": 73,
+          "name": "Uludere"
+        },
+        {
+          "cityId": 74,
+          "name": "Amasra"
+        },
+        {
+          "cityId": 74,
+          "name": "Kurucaşile"
+        },
+        {
+          "cityId": 74,
+          "name": "Ulus"
+        },
+        {
+          "cityId": 75,
+          "name": "Çıldır"
+        },
+        {
+          "cityId": 75,
+          "name": "Damal"
+        },
+        {
+          "cityId": 75,
+          "name": "Göle"
+        },
+        {
+          "cityId": 75,
+          "name": "Hanak"
+        },
+        {
+          "cityId": 75,
+          "name": "Posof"
+        },
+        {
+          "cityId": 76,
+          "name": "Aralık"
+        },
+        {
+          "cityId": 76,
+          "name": "Karakoyunlu"
+        },
+        {
+          "cityId": 76,
+          "name": "Tuzluca"
+        },
+        {
+          "cityId": 77,
+          "name": "Altınova"
+        },
+        {
+          "cityId": 77,
+          "name": "Armutlu"
+        },
+        {
+          "cityId": 77,
+          "name": "Çınarcık"
+        },
+        {
+          "cityId": 77,
+          "name": "Çiftlikköy"
+        },
+        {
+          "cityId": 77,
+          "name": "Termal"
+        },
+        {
+          "cityId": 78,
+          "name": "Eflani"
+        },
+        {
+          "cityId": 78,
+          "name": "Eskipazar"
+        },
+        {
+          "cityId": 78,
+          "name": "Ovacık"
+        },
+        {
+          "cityId": 78,
+          "name": "Safranbolu"
+        },
+        {
+          "cityId": 78,
+          "name": "Yenice"
+        },
+        {
+          "cityId": 79,
+          "name": "Elbeyli"
+        },
+        {
+          "cityId": 79,
+          "name": "Musabeyli"
+        },
+        {
+          "cityId": 79,
+          "name": "Polateli"
+        },
+        {
+          "cityId": 80,
+          "name": "Bahçe"
+        },
+        {
+          "cityId": 80,
+          "name": "Düziçi"
+        },
+        {
+          "cityId": 80,
+          "name": "Hasanbeyli"
+        },
+        {
+          "cityId": 80,
+          "name": "Kadirli"
+        },
+        {
+          "cityId": 80,
+          "name": "Sumbas"
+        },
+        {
+          "cityId": 80,
+          "name": "Toprakkale"
+        },
+        {
+          "cityId": 81,
+          "name": "Akçakoca"
+        },
+        {
+          "cityId": 81,
+          "name": "Cumayeri"
+        },
+        {
+          "cityId": 81,
+          "name": "Çilimli"
+        },
+        {
+          "cityId": 81,
+          "name": "Gölyaka"
+        },
+        {
+          "cityId": 81,
+          "name": "Gümüşova"
+        },
+        {
+          "cityId": 81,
+          "name": "Kaynaşlı"
+        },
+        {
+          "cityId": 81,
+          "name": "Yığılca"
+        }
+      ]
+}
